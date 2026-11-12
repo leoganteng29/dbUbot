@@ -23,6 +23,18 @@
       "created_by": "import",
       "updated_at": 1794466765745,
       "updated_by": "import"
+    },
+    {
+      "token": "9058966340:AAEzObYS1D5cXfthd_cmi98cM4tr9X5Otus",
+      "bot_id": "9058966340",
+      "username": "ubotLeotampan_bot",
+      "active": true,
+      "expires_at": null,
+      "note": "",
+      "created_at": 1794468294562,
+      "created_by": "6146077243",
+      "updated_at": 1794468294562,
+      "updated_by": "6146077243"
     }
   ]
 }
