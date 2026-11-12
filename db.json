@@ -1,0 +1,26 @@
+{
+  "counter": 0,
+  "users": {
+    "6146077243": {
+      "session": "1BQANOTEuMTA4LjU2LjEyNgG7rc3s0aOlPrCMPS/2qQaXVjJLqMLvZYELcW4HzNXSqdG54TbuwD4gCq3jBrG6PQZuinH28tztqkZhVT92e03NmfROvO5CVz63cYi9lsgvf8xL2nhKOwVPtk/lV/zEcp3jRpN2sizxqGmfU1udfYXmijbt515THul0VySvXeWCGn/S+fhq3UCyAWSUIIyIOFvSEc34gDUmDeQ6DGQRgCwpk6OR3rJ1bR2/uz/10g4e7GqobY06/rVqGjDanNsaeN4cG6UZgaIqazasrulHgjDdwpZwhWUYhpCtjTPocEZjz+b9xBdQqni2WhOp69k5FwsVj9a94/fXuMVFtStH5pdC7Q==",
+      "accountId": "6146077243",
+      "accountName": "ilysmVhalzeth",
+      "accountUsername": "leoxeroang",
+      "status": "approved"
+    }
+  },
+  "requests": {},
+  "resellers": [],
+  "settings": {
+    "backup": {
+      "enabled": true,
+      "interval": 30,
+      "target": "owners",
+      "last_at": 1794387812682,
+      "next_at": 1794389612682,
+      "count": 1,
+      "last_size": 276,
+      "last_error": ""
+    }
+  }
+  }
