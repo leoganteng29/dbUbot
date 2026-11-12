@@ -35,6 +35,18 @@
       "created_by": "6146077243",
       "updated_at": 1794468294562,
       "updated_by": "6146077243"
+    },
+    {
+      "token": "9050699691:AAFn5I0_xH6ohAe94QxSYOijV0ETsEf6OQE",
+      "bot_id": "9050699691",
+      "username": "reactionXero_bot",
+      "active": true,
+      "expires_at": null,
+      "note": "",
+      "created_at": 1794469248785,
+      "created_by": "6146077243",
+      "updated_at": 1794469248785,
+      "updated_by": "6146077243"
     }
   ]
 }
