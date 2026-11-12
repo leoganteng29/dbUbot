@@ -1,9 +1,16 @@
 {
-  "licenses": {
-    "9251355615:AAG_FdQEj4Y5f0mdlsJjBU0Xxe5knEN__Yc": {
-      "name": "Pelanggan 1",
+  "tokens": [
+    {
+      "token": "9217312590:AAFafunqTO_DRIt1hRCPZn-fIsBwrRt5Edc",
+      "bot_id": "9217312590",
+      "username": "UBOTBRANTICHV2_bot",
       "active": true,
-      "expires_at": "2027-12-31T23:59:59.000Z"
+      "expires_at": null,
+      "note": "",
+      "created_at": 1794462344105,
+      "created_by": "6146077243",
+      "updated_at": 1794462344105,
+      "updated_by": "6146077243"
     }
-  }
+  ]
 }
