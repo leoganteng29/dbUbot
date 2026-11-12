@@ -16,10 +16,10 @@
       "enabled": true,
       "interval": 30,
       "target": "owners",
-      "last_at": 1794497830247,
-      "next_at": 1794499630247,
-      "count": 10,
-      "last_size": 680,
+      "last_at": 1794516946318,
+      "next_at": 1794518746318,
+      "count": 11,
+      "last_size": 679,
       "last_error": ""
     }
   }
