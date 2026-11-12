@@ -1,0 +1,28 @@
+{
+  "tokens": [
+    {
+      "token": "9251355615:AAG_FdQEj4Y5f0mdlsJjBU0Xxe5knEN__Yc",
+      "bot_id": "9251355615",
+      "username": "",
+      "active": true,
+      "expires_at": null,
+      "note": "diimpor dari file publik",
+      "created_at": 1794466765745,
+      "created_by": "import",
+      "updated_at": 1794466765745,
+      "updated_by": "import"
+    },
+    {
+      "token": "9217312590:AAFafunqTO_DRIt1hRCPZn-fIsBwrRt5Edc",
+      "bot_id": "9217312590",
+      "username": "",
+      "active": true,
+      "expires_at": null,
+      "note": "diimpor dari file publik",
+      "created_at": 1794466765745,
+      "created_by": "import",
+      "updated_at": 1794466765745,
+      "updated_by": "import"
+    }
+  ]
+}
