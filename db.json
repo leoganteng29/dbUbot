@@ -16,11 +16,11 @@
       "enabled": true,
       "interval": 30,
       "target": "owners",
-      "last_at": 1794387812682,
-      "next_at": 1794389612682,
-      "count": 1,
-      "last_size": 276,
+      "last_at": 1794464602339,
+      "next_at": 1794466402339,
+      "count": 2,
+      "last_size": 680,
       "last_error": ""
     }
   }
-  }
+}
