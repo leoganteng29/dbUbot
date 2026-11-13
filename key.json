@@ -1,17 +1,46 @@
 {
   "version": 1,
-  "updated_at": 1794598782472,
-  "limits": { "fullup": 10, "reseller": 25, "pt": 30, "admin": null, "developer": null },
+  "updated_at": 1794609441063,
+  "limits": {
+    "fullup": 10,
+    "reseller": 25,
+    "pt": 30,
+    "admin": null,
+    "developer": null
+  },
   "roles": {
-    "1110001": { "role": "fullup", "name": "Budi", "username": "budi",
-                 "extra_quota": 0, "added_by": "6146077243", "added_at": 1794598700000 }
+    "1110001": {
+      "role": "fullup",
+      "name": "Budi",
+      "username": "budi",
+      "extra_quota": 0,
+      "added_by": "6146077243",
+      "added_at": 1794598700000
+    }
   },
   "keys": {
     "K-3FA91C": {
-      "hash": "<SHA-256 dari key>", "hint": "S4FQ",
-      "owner_id": "2220002", "owner_role": "reseller", "owner_name": "Rina",
-      "created_at": 1794598782472, "expires_at": 1802374782472,
-      "status": "active", "note": "Toko A"
+      "hash": "<SHA-256 dari key>",
+      "hint": "S4FQ",
+      "owner_id": "2220002",
+      "owner_role": "reseller",
+      "owner_name": "Rina",
+      "created_at": 1794598782472,
+      "expires_at": 1802374782472,
+      "status": "active",
+      "note": "Toko A"
+    },
+    "K-D715B8": {
+      "hash": "0c6ef788500bdad17a1e82e58ab5a6f62af4807b95eb1308851648864f85ff46",
+      "hint": "HEBQ",
+      "owner_id": "6146077243",
+      "owner_role": "developer",
+      "owner_name": "ilysmVhalzeth",
+      "owner_username": "leoxeroang",
+      "created_at": 1794609441063,
+      "expires_at": null,
+      "status": "active",
+      "note": ""
     }
   }
 }
