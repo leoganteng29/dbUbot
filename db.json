@@ -6,7 +6,11 @@
       "accountId": "6146077243",
       "accountName": "ilysmVhalzeth",
       "accountUsername": "leoxeroang",
-      "status": "approved"
+      "status": "approved",
+      "afk": {
+        "since": 1794612150274,
+        "reason": "Tiada sebab"
+      }
     }
   },
   "requests": {},
