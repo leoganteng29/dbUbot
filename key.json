@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated_at": 1794598782472,
+  "limits": { "fullup": 10, "reseller": 25, "pt": 30, "admin": null, "developer": null },
+  "roles": {
+    "1110001": { "role": "fullup", "name": "Budi", "username": "budi",
+                 "extra_quota": 0, "added_by": "6146077243", "added_at": 1794598700000 }
+  },
+  "keys": {
+    "K-3FA91C": {
+      "hash": "<SHA-256 dari key>", "hint": "S4FQ",
+      "owner_id": "2220002", "owner_role": "reseller", "owner_name": "Rina",
+      "created_at": 1794598782472, "expires_at": 1802374782472,
+      "status": "active", "note": "Toko A"
+    }
+  }
+}
