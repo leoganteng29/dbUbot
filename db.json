@@ -23,7 +23,11 @@
       "accountId": "7540709727",
       "accountName": "╋ ᯓ 𝗕𝗿𝗮𝗻 || 𝐍𝐚𝐤𝐚𝐠𝐚𝐰𝐚",
       "accountUsername": "Xyroxcosmic",
-      "status": "approved"
+      "status": "approved",
+      "afk": {
+        "since": 1794632951506,
+        "reason": "Tiada sebab"
+      }
     }
   },
   "requests": {},
