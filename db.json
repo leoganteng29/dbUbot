@@ -7,10 +7,7 @@
       "accountName": "ilysmVhalzeth",
       "accountUsername": "leoxeroang",
       "status": "approved",
-      "afk": {
-        "since": 1794612150274,
-        "reason": "Tiada sebab"
-      },
+      "afk": null,
       "blacklist": [
         {
           "key": "3919908522",
