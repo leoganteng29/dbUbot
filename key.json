@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1794621384322,
+  "updated_at": 1794622277984,
   "limits": {
     "fullup": 10,
     "reseller": 25,
@@ -59,6 +59,18 @@
       "owner_username": "Xyroxcosmic",
       "created_at": 1794621384322,
       "expires_at": null,
+      "status": "active",
+      "note": ""
+    },
+    "K-D08F5B": {
+      "hash": "d2440b214a22823d2d79170b8be28f8dd93b0cb1840086b59295e01664a8cfbd",
+      "hint": "5K8A",
+      "owner_id": "6146077243",
+      "owner_role": "developer",
+      "owner_name": "ilysmVhalzeth",
+      "owner_username": "leoxeroang",
+      "created_at": 1794622277984,
+      "expires_at": 1795227077984,
       "status": "active",
       "note": ""
     }
