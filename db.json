@@ -17,17 +17,6 @@
           "at": 1794618154724
         }
       ]
-    },
-    "7540709727": {
-      "session": "1BQANOTEuMTA4LjU2LjE5MAG7dnkrkEnucBsZRB84JgOdlcteNrKbUFkruBzKf/SLkyoFMdn23AMGTWSv7xzmt+DfnlRRekI7JcaG4jzwyJGFoxlXsR0nofHeT3AAi2uByDDeZq9RWx/zqopMMHe61GHS3TCjdDlIStjeTy9JJGuz9/2qt6o31kJxfzf3jewitn8XA4n7mev4gr1eHhZmZnah4eIt0oTC7K9+wcRP0f3XvH5P/AuBBuhL+kAhCx/D2rZ78GX112IPtAff7Laux8jaKgUv6NmfYG3uICMFwF0XBNYbRRBP+SLV9FRlLqpQmPyFGb9bJjo4V0KJnygBWe/CnG0x0sAavLni9QaOLoCakg==",
-      "accountId": "7540709727",
-      "accountName": "╋ ᯓ 𝗕𝗿𝗮𝗻 || 𝐍𝐚𝐤𝐚𝐠𝐚𝐰𝐚",
-      "accountUsername": "Xyroxcosmic",
-      "status": "approved",
-      "afk": {
-        "since": 1794632951506,
-        "reason": "Tiada sebab"
-      }
     }
   },
   "requests": {},
@@ -37,10 +26,10 @@
       "enabled": true,
       "interval": 30,
       "target": "owners",
-      "last_at": 1794631202690,
-      "next_at": 1794633002690,
-      "count": 45,
-      "last_size": 1419,
+      "last_at": 1794633002885,
+      "next_at": 1794634802885,
+      "count": 46,
+      "last_size": 1418,
       "last_error": ""
     },
     "sholat_emoji": {
