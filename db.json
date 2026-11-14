@@ -31,11 +31,11 @@
   "resellers": [],
   "settings": {
     "backup": {
-      "enabled": false,
+      "enabled": true,
       "interval": 30,
       "target": "owners",
       "last_at": 1794633004999,
-      "next_at": 1794634830505,
+      "next_at": 1794670583652,
       "count": 46,
       "last_size": 1854,
       "last_error": ""
