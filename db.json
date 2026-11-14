@@ -2,7 +2,7 @@
   "counter": 0,
   "users": {
     "6146077243": {
-      "session": "1BQANOTEuMTA4LjU2LjE5MwG7V2ZUpBmfFeAnqdSquRdF9Iq27kRPbbL1rI/OJxEHx1GABrkBUx1CYpGCdjDtV5wZNU5uHmB8kV3hi1BpZmOMsxR8X7bZ805+Ubbv/HcW5mIKqUTaYB/J5ryfpur3TSWfNLy4V31q4fnNUfKX6poyQY2HuCgEMXOCqD7o8FU8BOvvTTLyVrnzKDvkrJkUvdlkXqhbRZqZq7qRhU1wJsKkbFCW0J44Woq2bvfXteDoAb0/adtGNOODZirDDoqJZIwQdZ4yQKJKOC4fqUeAjJYSRFzOFn7vut4E7Lsm2sDiWmOgnXxYoHffY/+wIdTRkc6RZ+d1gOras7TXka7I7lZTVQ==",
+      "session": "1BQANOTEuMTA4LjU2LjE5MwG7d1SHuF3CH1L+UvMEBnGKPucSrIbBF67ch993/HJU/ugGoWT5iggpLn4eE3ydLOzwSSfQsf8m7TrDjoF5WaSjwyL7jHl9s+IvjMpHH+XP0HyVzo8TV6pnNLbJzT0No6iljjIlMXwN8T56Ujt/3Mh6rH+YNPI8UmfzSb7v4NZYPeDPCa3ke3SJH+r/gm8eEUeIjcMQhyeNwtTzW4HzZKLNtZPD4DEkxKWqbXztv8X8fDodbdVe8ht2x6s+PNBSgtpgHUFTStgF7iil901K1N+RQBP67qDtWITa/RIQM2gmeGhgcHRPh6prXTPtuLtcWicabbULrIULsBBZ93PNY8kBFQ==",
       "accountId": "6146077243",
       "accountName": "ilysmVhalzeth",
       "accountUsername": "leoxeroang",
@@ -17,19 +17,27 @@
           "at": 1794618154724
         }
       ]
+    },
+    "7540709727": {
+      "session": "1BQANOTEuMTA4LjU2LjE5MAG7dnkrkEnucBsZRB84JgOdlcteNrKbUFkruBzKf/SLkyoFMdn23AMGTWSv7xzmt+DfnlRRekI7JcaG4jzwyJGFoxlXsR0nofHeT3AAi2uByDDeZq9RWx/zqopMMHe61GHS3TCjdDlIStjeTy9JJGuz9/2qt6o31kJxfzf3jewitn8XA4n7mev4gr1eHhZmZnah4eIt0oTC7K9+wcRP0f3XvH5P/AuBBuhL+kAhCx/D2rZ78GX112IPtAff7Laux8jaKgUv6NmfYG3uICMFwF0XBNYbRRBP+SLV9FRlLqpQmPyFGb9bJjo4V0KJnygBWe/CnG0x0sAavLni9QaOLoCakg==",
+      "accountId": "7540709727",
+      "accountName": "╋ ᯓ 𝗕𝗿𝗮𝗻 || 𝐍𝐚𝐤𝐚𝐠𝐚𝐰𝐚",
+      "accountUsername": "Xyroxcosmic",
+      "status": "approved",
+      "afk": null
     }
   },
   "requests": {},
   "resellers": [],
   "settings": {
     "backup": {
-      "enabled": true,
+      "enabled": false,
       "interval": 30,
       "target": "owners",
-      "last_at": 1794636603321,
-      "next_at": 1794638403321,
-      "count": 48,
-      "last_size": 1419,
+      "last_at": 1794633004999,
+      "next_at": 1794634830505,
+      "count": 46,
+      "last_size": 1854,
       "last_error": ""
     },
     "sholat_emoji": {
