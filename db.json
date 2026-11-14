@@ -10,7 +10,16 @@
       "afk": {
         "since": 1794612150274,
         "reason": "Tiada sebab"
-      }
+      },
+      "blacklist": [
+        {
+          "key": "3919908522",
+          "id": "-1003919908522",
+          "title": "All Buyer XeroAngel Apk",
+          "type": "Group",
+          "at": 1794618154724
+        }
+      ]
     }
   },
   "requests": {},
