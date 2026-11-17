@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1794957604357,
+  "updated_at": 1794957617963,
   "limits": {
     "fullup": 10,
     "reseller": 25,
@@ -107,8 +107,10 @@
       "owner_username": "",
       "created_at": 1794957604357,
       "expires_at": null,
-      "status": "active",
-      "note": "bebas"
+      "status": "revoked",
+      "note": "bebas",
+      "revoked_at": 1794957617963,
+      "revoked_by": "6146077243"
     }
   },
   "webs": {
