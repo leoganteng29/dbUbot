@@ -43,10 +43,10 @@
       "enabled": true,
       "interval": 30,
       "target": "owners",
-      "last_at": 1795091398973,
-      "next_at": 1795093198973,
-      "count": 103,
-      "last_size": 1722,
+      "last_at": 1795093199064,
+      "next_at": 1795094999064,
+      "count": 104,
+      "last_size": 1720,
       "last_error": ""
     },
     "sholat_emoji": {
